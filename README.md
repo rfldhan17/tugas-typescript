@@ -14,7 +14,7 @@ Proyek ini berisi beberapa fungsi untuk menyelesaikan studi kasus sebagai beriku
 git clone https://github.com/rfldhan/tugas-typescript.git
 cd tugas-typescript
 ### 3. Compile TypeScript ke JavaScript
-tsx index.ts
+tsc index.ts
 ### 4. Run Code
 node index.ts
 ### 5. Output
