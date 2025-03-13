@@ -11,7 +11,7 @@ Proyek ini berisi beberapa fungsi untuk menyelesaikan studi kasus sebagai beriku
 ## Cara Menjalakan Kode
 ### 1. Install Node.js & TypeScript
 ### 2. Clone Repository
-git clone https:github.com/rfldhan/tugas-typescript.git
+git clone https://github.com/rfldhan/tugas-typescript.git
 cd tugas-typescript
 ### 3. Compile TypeScript ke JavaScript
 tsx index.ts
